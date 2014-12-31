@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabianNotifications", "FabianNotifications\FabianNotifications.csproj", "{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Release|iPhone.Build.0 = Release|iPhone
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FDCF3751-A8FF-46DC-8864-31E48DDD36DD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FabianNotifications\FabianNotifications.csproj
+	EndGlobalSection
+EndGlobal
